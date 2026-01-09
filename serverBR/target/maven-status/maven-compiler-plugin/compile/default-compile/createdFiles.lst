@@ -1,0 +1,16 @@
+bookrecommender/DataManager.class
+bookrecommender/BookRecommenderServer.class
+bookrecommender/DataAccessService.class
+bookrecommender/JdbcDataAccessService.class
+bookrecommender/AggregatedRating.class
+bookrecommender/Book.class
+bookrecommender/RecommendedBook.class
+bookrecommender/IBookRecommenderService.class
+bookrecommender/Book_key.class
+bookrecommender/Bookshelf_key.class
+bookrecommender/Rating.class
+bookrecommender/Bookshelf.class
+bookrecommender/Rating_key.class
+bookrecommender/Dictionary.class
+bookrecommender/UserComment.class
+bookrecommender/User.class

@@ -1,0 +1,14 @@
+bookrecommender/Rating_keyTest.class
+bookrecommender/UserTest.class
+bookrecommender/H2DatabaseIntegrationTest.class
+bookrecommender/Book_keyTest.class
+bookrecommender/UserCommentTest.class
+bookrecommender/TestAccountGenerator.class
+bookrecommender/BookTest.class
+bookrecommender/RecommendedBookTest.class
+bookrecommender/AggregatedRatingTest.class
+bookrecommender/DataManagerTest.class
+bookrecommender/RatingTest.class
+bookrecommender/BookRecommenderIntegrationTest.class
+bookrecommender/Bookshelf_keyTest.class
+bookrecommender/BookshelfTest.class

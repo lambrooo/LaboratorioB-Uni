@@ -1,0 +1,16 @@
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/IBookRecommenderService.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/Book_key.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/AggregatedRating.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/Dictionary.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/User.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/BookRecommenderServer.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/RecommendedBook.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/Bookshelf.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/Book.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/Rating_key.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/UserComment.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/DataManager.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/JdbcDataAccessService.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/DataAccessService.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/Rating.java
+/Users/leonardolambruschi/Desktop/ManticaMatteo-758070/serverBR/src/main/java/bookrecommender/Bookshelf_key.java

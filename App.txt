@@ -1,0 +1,45 @@
+**************************************************************************
+**************************************************************************
+
+UNIVERSITÀ DEGLI STUDI DELL'INSUBRIA
+CORSO DI LAUREA TRIENNALE IN INFORMATICA - A.A 2024/2025
+LABORATORIO INTERDISCIPLINARE B - PROGETTO BOOK RECOMMENDER
+SESSIONE D'ESAME LUGLIO 2025
+
+PROGETTO REALIZZATO DA:
+MATTEO MANTICA - Mat. 758070
+m.mantica@studenti.uninsubria.it
+
+LEONARDO LAMBRUSCHI - Mat. 753579
+l.lambruschi@studenti.uninsubria.it
+
+**************************************************************************
+**************************************************************************
+
+CONTENUTO DEL FOLDER CONSEGNATO
+
+/----- serverBR/target/serverBR-1.0-SNAPSHOT.jar - File eseguibile del server RMI
+/----- clientBR/target/clientBR-1.0-SNAPSHOT.jar - File eseguibile del client GUI
+/----- doc - Cartella contenente la documentazione del progetto (Manuali Utente e Tecnico, JavaDoc)
+/----- data - Cartella contenente i file di dati di esempio (utilizzati dal FileBasedDataAccessService, ma non direttamente dal server JDBC)
+/----- db - Cartella contenente gli script SQL per la gestione del database
+/----- src - Cartella contenente il codice sorgente del progetto
+/----- pom.xml - File di configurazione Maven per la compilazione e la gestione del progetto
+/----- ReadMe.txt - Questo file
+/----- Autori.txt - File contenente i membri del team
+/----- GettingStarted.md - Guida dettagliata per l'avvio e la configurazione dell'applicazione
+/----- SPECS.MD - Specifiche di progetto
+
+**************************************************************************
+**************************************************************************
+
+AVVIARE L'APPLICAZIONE
+
+Per istruzioni dettagliate su come configurare il database, compilare il progetto e avviare l'applicazione (server e client), si prega di consultare il file:
+
+ReadMe.md
+
+Questo file contiene tutti i passaggi necessari, inclusi i prerequisiti e le informazioni sugli utenti iniziali.
+
+**************************************************************************
+**************************************************************************
